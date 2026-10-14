@@ -5,7 +5,9 @@
 
 <br/>
 
+
 <img src="https://komarev.com/ghpvc/?username=hyklfaiq&style=for-the-badge&color=ff3030&label=PROFILE+VIEWS" alt="Profile views" />
+
 
 <a href="https://github.com/hyklfaiq?tab=repositories">
   <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-161616?style=for-the-badge&logo=github&logoColor=ff3030" alt="Repositories" />
@@ -129,10 +131,6 @@
     width="250"
     alt="Anime GIF"
   />
-</div>
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJtemhqOWs1bGcxM3ppejZ0eHJsemFvMmh4ZHk3dTlmbW54bzZtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/98V6GYyPQKh33gGUz3/giphy.gif" width="250" alt="Anime GIF" />
-
 </div>
 
 <h2 align="center"> ⛧ CONNECT ⛧ </h2>

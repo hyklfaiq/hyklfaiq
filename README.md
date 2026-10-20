@@ -6,7 +6,7 @@
 <br/>
 
 
-<img src="https://komarev.com/ghpvc/?username=hyklfaiq&style=for-the-badge&color=ff3030&label=PROFILE+VIEWS" alt="Profile views" />
+![Github Views](https://views.igorkowalczyk.dev/api/badge/hyklfaiq?color=red)
 
 
 <a href="https://github.com/hyklfaiq?tab=repositories">

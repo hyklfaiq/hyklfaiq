@@ -43,27 +43,27 @@
 <br clear="left" />
 
 
-
-
 <h2 align="center"> ⚡ TECHNICAL SKILLS ⚡ </h2>
 
 <div align="center">
 
 **💻 Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,dart,bash,powershell,assembly&theme=dark" alt="Python, C++, JavaScript, TypeScript, Java, Dart, Bash, PowerShell, Assembly" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,dart,bash,powershell,assembly&theme=dark" alt="Programming Languages" />
 
 <br/>
 
-**🌐 Web, Mobile & Game Development**
+**🌐 Development Frameworks & Technologies**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap,materialui,flutter,androidstudio,godot&theme=dark" alt="HTML, CSS, React, Next.js, Vite, Tailwind CSS, Bootstrap, Material UI, Flutter, React Native, Android Studio, Godot" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap,materialui,flutter,androidstudio,godot&theme=dark" alt="Web, Mobile and Game Development" />
 
 <br/>
 
 **🛠️ Databases, Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb,supabase,linux,vercel,docker,git,vscode,npm&theme=dark" alt="PostgreSQL, SQLite, MySQL, MongoDB, Supabase, Linux, Vercel, Docker, Git, VS Code, npm" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb,supabase,linux,vercel,docker,git,vscode,npm&theme=dark" alt="Databases, Tools and Platforms" />
+
+</div>
 
 
 
